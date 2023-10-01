@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HarshalSinghVats
+- 👋 Hi, I’m Harshal Singh Vats
 - 👀 I’m interested in helping in the advancement of technology
 - 🌱 I’m currently learning C and will transition to C++, learn DSA with it and then progress to Python to break ground in Machine Learning
 - 📫 How to reach me :
