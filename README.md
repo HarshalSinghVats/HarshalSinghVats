@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Harshal Singh Vats
 - 👀 I’m interested in helping in the advancement of technology
-- 🌱 I’m currently learning C and will transition to C++, learn DSA with it and then progress to Python to break ground in Machine Learning
+- 🌱 Currently learning Machine Learning
 - 📫 How to reach me :
 - Linkedin -> www.linkedin.com/in/harshal-singh-vats
-- GMail -> harshalvats92@gmail.com
+- GMail -> harshalsvats@gmail.com
 
 <!---
 HarshalSinghVats/HarshalSinghVats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
