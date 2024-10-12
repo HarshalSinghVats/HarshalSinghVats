@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **harshalsvats@gmail.com**
 
-- ⚡ Fun fact : **Computers are better companions than humans ^ _ ^**
+- ⚡ Fun fact : **I find myself humorous ^ _ ^**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
