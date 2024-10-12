@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshal Singh Vats</h1>
+<h1 align="center">Hi, I'm Harshal Singh Vats</h1>
 <h3 align="center">I am an aspiring AI Engineer/Data Scientist.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
