@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Klaus</h1>
-<h3 align="center">I am an aspiring AI Engineer/Data Scientist.</h3>
+<h1 align="center">Hi, I'm Harshal</h1>
+<h3 align="center">I am a FullStack Eningeer @ EdEarn.</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning** and **FullStack** as a whole truth be told. Always things to learn.
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarshalSinghVats](https://github.com/HarshalSinghVats)
 
