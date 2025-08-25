@@ -11,6 +11,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=HarshalSinghVats&icon=0&color=1)](https://visitcount.itsvg.in)
 
+![Klaus's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshalsinghvatsshow_icons=true&count_private=true&include_all_commits=true)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+
