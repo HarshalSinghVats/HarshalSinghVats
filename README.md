@@ -50,13 +50,4 @@ Currently focused on:
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ---
-
-# 📈 Profile Activity
-
-![](https://visitcount.itsvg.in/api?id=HarshalSinghVats&icon=0&color=1)
-
----
-
-# 🐍 Contribution Graph
-
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
