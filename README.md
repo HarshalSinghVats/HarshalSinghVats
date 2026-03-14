@@ -1,28 +1,39 @@
-# 💻 Harshal Singh Vats
+### 💻 Harshal Singh Vats
 
-Backend-focused developer interested in **systems engineering, distributed systems, and scalable backend architecture**.
+# 👨‍💻 About Me
 
-Currently focused on:
+Backend developer passionate about **systems engineering**, **distributed systems**, and building **scalable backend architectures**.
 
-- Data Structures & Algorithms (C++)
-- Backend development with Go
-- Computer science fundamentals (Operating Systems, Networks, Databases)
+Currently sharpening my skills in:
 
----
+⚡ **Data Structures & Algorithms (C++)**  
+🚀 **Backend development with Go**  
+🧠 **Computer Science fundamentals** — Operating Systems, Networks, Databases
 
-# 🚀 Current Focus
-
-- Building backend systems in Go  
-- Practicing algorithmic problem solving  
-- Studying distributed systems concepts  
-- Strengthening CS fundamentals  
+I enjoy understanding **how systems work under the hood** and building software that is **fast, reliable, and scalable**.
 
 ---
 
-# 🌐 Connect
+## 🚀 Current Focus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshal-singh-vats)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshalsvats@gmail.com)
+- 🔧 Building backend systems in **Go**
+- 🧩 Solving **algorithmic problems** regularly
+- 🌐 Learning **distributed systems concepts**
+- 📚 Strengthening **core CS fundamentals**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/harshal-singh-vats">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge">
+</a>
+
+<a href="mailto:harshalsvats@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge">
+</a>
+</p>
 
 ---
 
