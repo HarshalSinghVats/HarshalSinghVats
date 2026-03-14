@@ -1,5 +1,5 @@
 ## 💻 Harshal Singh Vats
-===
+---
 
 # 👨‍💻 About Me
 
